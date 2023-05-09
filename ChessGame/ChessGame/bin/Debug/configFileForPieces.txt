@@ -1,0 +1,12 @@
+lowerCaseRook = r
+lowerCaseKnight = k
+lowerCaseBishop = b
+lowerCaseQueen = q
+lowerCaseKing = c
+lowerCasePawn = p
+upperCasePawn = P
+upperCaseRook = R
+upperCaseKnight = K
+upperCaseBishop = B
+upperCaseQueen = Q
+upperCaseKing = C

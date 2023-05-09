@@ -1,0 +1,8 @@
+C:\Users\jkogo\source\repos\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+C:\Users\jkogo\source\repos\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+C:\Users\jkogo\source\repos\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+C:\Users\jkogo\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.AssemblyReference.cache
+C:\Users\jkogo\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\jkogo\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\jkogo\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+C:\Users\jkogo\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.pdb
